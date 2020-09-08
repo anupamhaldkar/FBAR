@@ -1,6 +1,8 @@
+
 ## Inspiration
 Make Effect when Memorized moment comes 🔄
-https://www.facebook.com/fbcameraeffects/testit/306275844002635/MmFiNTYzYzJhNmQyZDM0YjNiODdlMjI5YzVjOTRmMDM=/
+
+[Status](!https://www.facebook.com/fbcameraeffects/testit/306275844002635/MmFiNTYzYzJhNmQyZDM0YjNiODdlMjI5YzVjOTRmMDM=/)
 ## What it does
 
 It can work with both rear camera as well as  front camera.. the first thing you would see is a custom instruction saying smile. This shows the image of the moment as GIF in the camera to make your imagination more natural and effective when clicked.
